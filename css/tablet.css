@@ -1,0 +1,12 @@
+.main-features-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin: 0 auto;
+}
+
+.plan-container--silder
+{
+    justify-content: center;
+}
